@@ -4,6 +4,7 @@ public class Machine {
     //fields
     private boolean isOn;
 
+    //method
     public void turnOn() {
         //tænder for maskinen
         this.isOn = true;
